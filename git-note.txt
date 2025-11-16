@@ -1,3 +1,5 @@
 Git is a distributed version control system.
 
 GitHub is a web platform that hosts Git repositories and provides collaboration features like issues, pull requests, and CI/CD.
+
+Git allows branching, merging, and rollback of changes safely.
